@@ -1,0 +1,168 @@
+{
+
+    "title": "GUEST EXPERIENCE",
+
+    "instructions": "Let's run through a scenario where a crew member takes a customer's order. You will be able to choose a path at each step that will determine the outcome.",    
+    
+    "primary_color": "#33bdbd",
+    
+    "border_color_1": "#f1f1f1",
+    
+    "border_color_2": "#ffc98e",
+
+    "accent_color_1": "#ffc300",
+
+    "accent_color_2": "#ff931e",
+ 
+    "accent_color_3": "#b5b5b5", 
+ 
+    "accent_color_4": "#838a98",
+
+    "options": [
+
+                    {
+                                    "image": "images/screen_1.png",
+                                    
+                                    "intro": "the customer walks in",
+                                    
+                                    "question": "what should you do 1?",
+
+                                    "left_first": "Pick",
+                        
+                                    "left_second": "Left.",
+                                    
+                                    "color_left": "left_first",
+                                    
+                                    "right_first": "Pick",
+                        
+                                    "right_second": "Right",
+                        
+                                    "color_right": "right_second",
+
+                                    "answer": "left"
+
+                    },
+
+                    {
+
+                                    "image": "images/screen_2.png",
+                                    
+                                    "intro": "the customer walks in",
+                                    
+                                    "question": "what should you do 2?",
+
+                                    "left_first": "Pick",
+                        
+                                    "left_second": "Left.",
+                                    
+                                    "color_left": "left_first",
+                                    
+                                    "right_first": "Pick",
+                        
+                                    "right_second": "Right",
+                        
+                                    "color_right": "right_second",
+
+                                    "answer": "right"
+
+                    },
+
+                    {
+
+                                    "image": "images/screen_3.png",
+                                    
+                                    "intro": "the customer walks in",
+                                    
+                                    "question": "what should you do 3?",
+
+                                    "left_first": "Pick",
+                        
+                                    "left_second": "Left.",
+                                    
+                                    "color_left": "left_first",
+                                    
+                                    "right_first": "Pick",
+                        
+                                    "right_second": "Right",
+                        
+                                    "color_right": "right_second",
+
+                                    "answer": "right"
+
+                    },
+
+                    {
+
+                                    "image": "images/screen_4.png",
+                                    
+                                    "intro": "the customer walks in",
+                                    
+                                    "question": "what should you do 4?",
+
+                                    "left_first": "Pick",
+                        
+                                    "left_second": "Left.",
+                                    
+                                    "color_left": "left_first",
+                                    
+                                    "right_first": "Pick",
+                        
+                                    "right_second": "Right",
+                        
+                                    "color_right": "right_second",
+
+                                    "answer": "left"
+
+                    },
+
+                    {
+
+                                    "image": "images/screen_5.png",
+                                    
+                                    "intro": "the customer walks in",
+                                    
+                                    "question": "what should you do 5?",
+
+                                    "left_first": "Pick",
+                        
+                                    "left_second": "Left.",
+                                    
+                                    "color_left": "left_first",
+                                    
+                                    "right_first": "Pick",
+                        
+                                    "right_second": "Right",
+                        
+                                    "color_right": "right_second",
+
+                                    "answer": "right"
+
+                    }
+
+    ],
+
+    "randomize_options": true,
+
+    "allow_reset": true,
+    
+    "passing_score": "3",
+    
+    "all_correct_question": "You rock!",
+    
+    "all_correct_image": "images/screen_aced.png",
+    
+    "all_correct_text": "you got everything right!",
+    
+    "passing_question": "You passed!",
+    
+    "passing_image": "images/screen_passed.png",
+    
+    "passing_text": "You got just enough to pass!",
+    
+    "failed_question": "You failed, please try again",
+    
+    "failed_image": "images/screen_failed.png",
+    
+    "failed_text": "Too bad, try again!"
+
+}
